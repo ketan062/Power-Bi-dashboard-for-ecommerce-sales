@@ -10,7 +10,7 @@ The dashboard enables users to filter data by quarter and gain actionable busine
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="Power BI Dashboard" width="100%">
+  <img src="Dashboard.png" alt="Power BI Dashboard" width="100%">
 </p>
 
 ---
